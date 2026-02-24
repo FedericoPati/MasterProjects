@@ -6,10 +6,12 @@ University: KTH Royale Istitute of Technology
 
 Final grade: A
 
-Lab Report 1: Alpha particle
+Lab Report 1: Alpha Decay
 
-Lab Report 2: Beta particle
+Lab Report 2: Beta Decay
 
 Lab Report 3: Neutron particles
+
+Lab Reprt 4: Gamma Decay
 
 Extra Project: Comparison of radio therapy and hadron therapy
